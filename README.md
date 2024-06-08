@@ -20,7 +20,7 @@ Projeto com o objetivo de gerar um ebook digital utilizando IA como ferramenta d
 seguem abaixo.
 
 ### Versão Português BR
-<a href="https://github.com/zekdtonik/ebook-nestjs-decorators/blob/main/output/Ebook - Na Fronteira do Cosmos.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/ZekDtonik/ebook-nestjs-decorators/blob/main/dist/Ebook%20-%20Na%20Fronteira%20do%20Cosmos.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
