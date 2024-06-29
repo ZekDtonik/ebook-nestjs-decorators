@@ -22,6 +22,9 @@ seguem abaixo.
 ### Versão Português BR
 <a href="https://github.com/ZekDtonik/ebook-nestjs-decorators/blob/main/dist/Ebook%20-%20Na%20Fronteira%20do%20Cosmos.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
+### Version English US
+<a href="https://github.com/ZekDtonik/ebook-nestjs-decorators/blob/main/dist/Ebook%20-%20Na%20Fronteira%20do%20Cosmos.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
