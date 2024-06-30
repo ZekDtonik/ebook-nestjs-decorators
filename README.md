@@ -5,8 +5,6 @@
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 
-
-
 <p align="center">
 <img 
     src="./assets/cover.png"
